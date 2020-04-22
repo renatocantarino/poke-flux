@@ -1,0 +1,5 @@
+cantarino\pokedex\reactiveweb\model\Pokemon.class
+cantarino\pokedex\reactiveweb\model\PokemonEvent.class
+cantarino\pokedex\reactiveweb\controller\PokemonController.class
+cantarino\pokedex\reactiveweb\ReactivewebApplication.class
+cantarino\pokedex\reactiveweb\repository\PokemonRepository.class

@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: cantarino.pokedex.reactiveweb.ReactivewebApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 7.56 s - in cantarino.pokedex.reactiveweb.ReactivewebApplicationTests
