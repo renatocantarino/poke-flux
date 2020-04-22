@@ -1,14 +1,16 @@
-#Simple project using:
+Simple projet
 
-.SpringBoot
-.webflux architecture (https://www.baeldung.com/spring-webflux)
-.maven
-.RestController
-.MondoDb embedded
----> https://github.com/renatocantarino/poke-flux
+BackEnd
 
-.Front
-.Angular 9
-.HttpClient
-.Yvy
----> https://github.com/renatocantarino/poke-ang9/
+- Java
+- SpringBoot
+- webFlux 
+- event Stream
+- MongoDb embedd
+
+
+Front
+
+- Angular 9
+- Ivy compiler
+- bootstrap
